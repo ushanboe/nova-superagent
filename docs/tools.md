@@ -1,0 +1,3 @@
+# Tool Registry Design
+
+(Placeholder)
